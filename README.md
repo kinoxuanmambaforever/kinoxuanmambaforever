@@ -1,9 +1,11 @@
 # ✨ **我是谁 | About Me**  
 
 Hi, I’m **Kino Xuan** 👋  
+
 **HRBP & Talent Architect** @ **Black Lake Technology**，一家专注于工业科技的独角兽企业,
 
 公司&产品可戳这里：http://blacklake.cn/
+
 我深度参与产研部门的战略与组织发展，同时专注于 **人工智能行业顶尖人才招聘**。  
 
 📫 **戳这里联系我 | Contact Me**  
