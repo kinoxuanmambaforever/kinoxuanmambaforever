@@ -1,7 +1,8 @@
 # ✨ **我是谁 | About Me**  
 
 Hi, I’m **Kino Xuan** 👋  
-**HRBP & Talent Architect** @ **Black Lake Technology**，一家专注于工业科技的独角兽企业。  
+**HRBP & Talent Architect** @ **Black Lake Technology**，一家专注于工业科技的独角兽企业,
+了解公司&产品，可戳这里：http://blacklake.cn/。  
 我深度参与产研部门的战略与组织发展，同时专注于 **人工智能行业顶尖人才招聘**。  
 
 📫 **戳这里联系我 | Contact Me**  
@@ -25,7 +26,7 @@ Hi, I’m **Kino Xuan** 👋
 如果你希望在一家高速成长的工业科技企业里，做真正影响中国制造未来的产品与技术，欢迎联系我！  
 
 目前重点岗位包括：  
-- **研发方向**：前端 / 后端 / 移动 / 测试 / Infra / DevOps  
+- **研发方向**：前端 / 后端 / 移动 / 测试  
 - **AI/算法方向**：LLM、RL、预训练、Alignment、Code、Agent…  
 - **核心系统研发**：高性能计算、分布式系统、框架与算子开发  
 - **其他产研岗位**：产品、设计、数据、与工业智能相关方向  
